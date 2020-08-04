@@ -34,6 +34,6 @@ Formato e prazos de entrega:
 
 * Envie a função para um repositório do Github e envie o link para o email contato@hermoney.com.br.
 
-** Prazo: até o dia 07/08, sexta-feira, às 12h.
+* Prazo: até o dia 07/08, sexta-feira, às 12h.
 
 
