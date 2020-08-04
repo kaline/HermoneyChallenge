@@ -32,7 +32,7 @@ text: um objeto JSON que contém o dump HTML do artigo na Wikipedia.
 
 Formato e prazos de entrega:
 
-** Envie a função para um repositório do Github e envie o link para o email contato@hermoney.com.br.
+**Envie a função para um repositório do Github e envie o link para o email contato@hermoney.com.br.
 
 ** Prazo: até o dia 07/08, sexta-feira, às 12h.
 
