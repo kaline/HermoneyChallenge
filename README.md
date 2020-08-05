@@ -1,4 +1,4 @@
-# HermoneyChallege
+# HermoneyChallenge
 Challenge of internship from HerMoney.👩🏽‍🦳🎈
 
 
