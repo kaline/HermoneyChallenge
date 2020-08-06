@@ -45,10 +45,6 @@ angular.module('httpExample', [])
 
             $scope.data = response.data;
 
-		for(var i = 0; i < $scope.data.length; i++){
-			//array[i].push($scope.data[i].array[i]);
-	                //console.log(array[i]);	
-		}
 
           }, function(response) {
 
