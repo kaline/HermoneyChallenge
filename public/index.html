@@ -1,9 +1,38 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<!-- CSS only -->
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+
+       <!-- JS, Popper.js, and jQuery -->
+       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js" integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>	
 	<script src="/home/kaline/Desktop/projetos/interview/HermoneyChallege/public/index.js"></script>
 	</head>
-	<body onLoad="requestMusicData()">
-	
+	<body>
+	<header align="center">
+          <h1 class="display-1" align="center">
+		Música
+	  </h1>	
+	<h3 class="text-muted">Aproveite o som</h3>
+	</header>
+         <body ng-app="httpExample">
+
+  <div ng-controller="FetchController" ng-init="fetch()">
+
+  
+
+  <input type="text" ng-model="url" size="40" aria-label="URL" />
+ 
+
+  <pre>{{status}}</pre>
+
+  <pre>{{data}}</pre>
+
+</div>
+
+</body>
 	</body>
 </html>
