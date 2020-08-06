@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<!-- CSS only -->
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+       <!-- JS, Popper.js, and jQuery -->
+       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js" integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+       <script async src="https://static.addtoany.com/menu/page.js"></script>
+
+	</head>
+	<body>
+
+	<header align="center">
+          <h1 class="display-1">
+		Nota Musical
+	  </h1>	
+  <h3 class="text-muted">Aproveite o som</h3>
+  <!--Navbar-->
+<nav class="navbar navbar-light amber lighten-4 mb-4">
+
+  <!-- Navbar brand -->
+  <a class="navbar-brand" href="#"></a>
+
+  <!-- Collapse button -->
+  <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
+    aria-controls="navbarSupportedContent20" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="animated-icon1"><span></span><span></span><span></span></div>
+  </button>
+
+  <!-- Collapsible content -->
+  <div class="collapse navbar-collapse" id="navbarSupportedContent20">
+
+    <!-- Links -->
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="musicas.html">Músicas</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contato.html">Contato</a>
+      </li>
+    </ul>
+    <!-- Links -->
+
+  </div>
+  <!-- Collapsible content -->
+
+</nav>
+<!--Section: Contact v.2-->
+</header>
+<section class="mb-4">
+
+    <!--Section heading-->
+    <h2 class="h1-responsive font-weight-bold text-center my-4">Fala conosco</h2>
+    <!--Section description-->
+    <p class="text-center w-responsive mx-auto mb-5">Você tem dúvidas ou sugestões? Por favor, contate nossa equipe pelo formulário
+        e nós ajudaremos você em algumas horas.</p>
+
+    <div class="row">
+
+        <!--Grid column-->
+        <div class="col-md-9 mb-md-0 mb-5">
+            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="text" id="name" name="name" class="form-control">
+                            <label for="name" class="">Seu nome</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="text" id="email" name="email" class="form-control">
+                            <label for="email" class="">Seu email</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="md-form mb-0">
+                            <input type="text" id="subject" name="subject" class="form-control">
+                            <label for="subject" class="">Assunto</label>
+                        </div>
+                    </div>
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-12">
+
+                        <div class="md-form">
+                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                            <label for="message">Sua mensagem</label>
+                        </div>
+
+                    </div>
+                </div>
+                <!--Grid row-->
+
+            </form>
+
+            <div class="text-center text-md-left">
+                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+            </div>
+            <div class="status"></div>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-md-3 text-center">
+            <ul class="list-unstyled mb-0">
+                <li><i class="fas fa-map-marker-alt fa-2x"></i>
+                    <p>Fortaleza, CE, Brasil</p>
+                </li>
+
+                <li><i class="fas fa-phone mt-4 fa-2x"></i>
+                    <p>+ 55 85 99799-5509</p>
+                </li>
+
+                <li><i class="fas fa-envelope mt-4 fa-2x"></i>
+                    <p>mesquitabfkaline@gmail.com</p>
+                </li>
+            </ul>
+        </div>
+        <!--Grid column-->
+
+    </div>
+
+</section>
+<!--Section: Contact v.2-->
+
+   </body>  
+    <footer class="page-footer font-small special-color-dark pt-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 py-5">
+              <div class="mb-5 flex-center">
+                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                  <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                  <a class="a2a_button_facebook"></a>
+                  <a class="a2a_button_twitter"></a>
+                  <a class="a2a_button_email"></a>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-copyright text-center py-3">© 2020 Copyright:
+          <a href=""> NotaMusical </a>
+        </div>
+      </footer>
+</html>
