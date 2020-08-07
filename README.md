@@ -50,8 +50,24 @@ git clone https://github.com/kaline/hermoneyChallenge
 ```
 <hr> 
 
+## Construção
+```
+npm install
+npm start
+
+```
+
+<hr>
+
+## Contribuições
+
+<p>Contribuições são sempre bem-vindas! Para contribuir lembre-se sempre de adicionar testes unitários para as novas classes com a devida documentação.</p>
+
+<hr>
+ 
+
 ## Referencia
-** Imagens usadas
+- Imagens usadas
 <br>
 
 * 0 - <span>Photo by <a href="https://unsplash.com/@simon_noh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Noh</a> on <a href="https://unsplash.com/images/things/music?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
