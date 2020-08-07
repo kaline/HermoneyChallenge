@@ -40,24 +40,24 @@ Formato e prazos de entrega:
 ## Referencia
 - Imagens usadas
 <br>
-** 0 - <span>Photo by <a href="https://unsplash.com/@simon_noh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Noh</a> on <a href="https://unsplash.com/images/things/music?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* 0 - <span>Photo by <a href="https://unsplash.com/@simon_noh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Noh</a> on <a href="https://unsplash.com/images/things/music?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 <br>
-**1 -Imagem de <a href="https://pixabay.com/pt/users/ArtTower-5337/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">ArtTower</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">Pixabay</a>
+* 1 -Imagem de <a href="https://pixabay.com/pt/users/ArtTower-5337/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">ArtTower</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">Pixabay</a>
 <br>
-2 -
+* 2 -
 <br>
-3 -Imagem de <a href="https://pixabay.com/pt/users/453169-453169/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=720589">453169</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=720589">Pixabay</a>
+* 3 -Imagem de <a href="https://pixabay.com/pt/users/453169-453169/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=720589">453169</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=720589">Pixabay</a>
 <br>
-4 - Imagem de <a href="https://pixabay.com/pt/users/Counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937260">Ulrike Mai</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937260">Pixabay</a>
+* 4 - Imagem de <a href="https://pixabay.com/pt/users/Counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937260">Ulrike Mai</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937260">Pixabay</a>
 <br>
-5 - Imagem de <a href="https://pixabay.com/pt/users/james943-1249962/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=865854">james943</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=865854">Pixabay</a>
+* 5 - Imagem de <a href="https://pixabay.com/pt/users/james943-1249962/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=865854">james943</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=865854">Pixabay</a>
 <br>
-6 - Imagem de <a href="https://pixabay.com/pt/users/WikimediaImages-1185597/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835868">WikimediaImages</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835868">Pixabay</a>
+* 6 - Imagem de <a href="https://pixabay.com/pt/users/WikimediaImages-1185597/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835868">WikimediaImages</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835868">Pixabay</a>
 <br>
-7 - Imagem de <a href="https://pixabay.com/pt/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=63212">WikiImages</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=63212">Pixabay</a>
+* 7 - Imagem de <a href="https://pixabay.com/pt/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=63212">WikiImages</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=63212">Pixabay</a>
 <br>
-8 - Imagem de <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Universal Music Group</a> por <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Mundo da música</a>
+* 8 - Imagem de <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Universal Music Group</a> por <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Mundo da música</a>
 <br>
-9 -Imagem de <a href="https://pixabay.com/pt/users/langll-822640/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Lorri Lang</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Pixabay</a>
+* 9 - Imagem de <a href="https://pixabay.com/pt/users/langll-822640/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Lorri Lang</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Pixabay</a>
 
 
