@@ -1,9 +1,9 @@
 # HermoneyChallenge
 
 [![Build Status](https://travis-ci.org/condessalovelace/mavenquickstart.svg?branch=master)](https://travis-ci.org/condessalovelace/mavenquickstart) ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com%3Amavenquickstart&metric=alert_status)
-Challenge of internship from HerMoney.👩🏽‍🦳🎈
 
 <hr>
+Challenge of internship from HerMoney.👩🏽‍🦳🎈
 
 HerMoney
 Processo seletivo para pessoa estagiária de desenvolvimento
