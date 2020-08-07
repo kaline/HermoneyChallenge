@@ -59,4 +59,7 @@ Imagens usadas
 <br>
 8 - Imagem de <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Universal Music Group</a> por <a href="https://mundodamusicamm.com.br/index.php/comunicacao/item/196-universal-music-group-anuncia-aquisicao-da-ingrooves-empresa-de-distribuicao-e-marketing-musical-veja-mais.html">Mundo da música</a>
 
+<br>
+9 -Imagem de <a href="https://pixabay.com/pt/users/langll-822640/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Lorri Lang</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1139397">Pixabay</a>
+
 
