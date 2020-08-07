@@ -18,17 +18,14 @@ var loadData = function(response){
   var textMusic = "";
 
   for(var i = 0; i < arrayMusicLength; i++){
-    textMusic += '<div class="card-header" id="headingThree">' +
-    '<h5 class="mb-0"><button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false"  value="' +
+    textMusic += '<div  class="card mb-3"> <img class="card-img-top" width="100%" height="300" src="images/'+ arrayMusic[i].title +'.jpg" alt="'+ arrayMusic[i].title +'">' +
+    ' <div class="card-body"> <h5 class="card-title" value="' +
     i +
-    '">' + arrayMusic[i].title  + " </button></h5></div>";
-    textMusic +=
-      '<div class="card-body">' +
-      '<a  id="collapseOne" class="collapse"  "' +
-      i +
-      '">' +
-      arrayMusic[i].snippet + '<br> ID do artigo - ' + arrayMusic[i].pageid +
-      "</a></div>";
+    '">' + arrayMusic[i].title  + ' </h5>' +
+    '<p class="card-text">' + arrayMusic[i].snippet +'</p>'+
+    '<p class="card-text"><small class="text-muted"><a href="https://pt.wikipedia.org/wiki/' + arrayMusic[i].title +'">Leia mais..</a></small></p>'+
+    '</div></div>';
+   
   }
 
   document.getElementById("musicData").innerHTML += textMusic; 
