@@ -39,6 +39,16 @@ Formato e prazos de entrega:
 * Prazo: até o dia 07/08, sexta-feira, às 12h.
 
 
+## Run projeto
+
+<p>Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:</p>
+
+```shell
+cd "diretorio de sua preferencia"
+git clone https://github.com/kaline/hermoneyChallenge
+```
+<hr> 
+
 ## Referencia
 ** Imagens usadas
 <br>
