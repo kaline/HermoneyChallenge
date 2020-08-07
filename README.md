@@ -40,9 +40,9 @@ Formato e prazos de entrega:
 ## Referencia
 - Imagens usadas
 <br>
-* 0 - <span>Photo by <a href="https://unsplash.com/@simon_noh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Noh</a> on <a href="https://unsplash.com/images/things/music?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+** 0 - <span>Photo by <a href="https://unsplash.com/@simon_noh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Noh</a> on <a href="https://unsplash.com/images/things/music?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 <br>
-*1 -Imagem de <a href="https://pixabay.com/pt/users/ArtTower-5337/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">ArtTower</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">Pixabay</a>
+**1 -Imagem de <a href="https://pixabay.com/pt/users/ArtTower-5337/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">ArtTower</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1625307">Pixabay</a>
 <br>
 2 -
 <br>
